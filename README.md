@@ -1,4 +1,9 @@
-### Hi, I'm Jhosbel 👋👨🤟💻
+### Hi, I'm Jhosbel, nice to see you 👋😎🤟💻
+
+Welcome to my page!
+
+I am Jhosbel Vargas, Full-Stack Developer from 🇻🇪 Venezuela - San Sebastian de los Reyes, 
+currently living in 🇨🇴 Colombia - Medellin
 
 ![me](https://github.com/jhosbel/jhosbel/assets/55473695/e29ee325-87b6-4450-97e0-3b033128f916)
 
