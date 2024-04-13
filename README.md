@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```js
+const jhosbelDev = {
+pronouns: "he" | "him",
+code: [JavaScript, TypeScript, HTML, CSS],
+tools: [React, Node, Styled-Components, MongoDB, NestJs]
+}
+```
 <!--
 **jhosbel/jhosbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
