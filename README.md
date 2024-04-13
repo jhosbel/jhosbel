@@ -2,8 +2,8 @@
 
 Welcome to my page!
 
-I am Jhosbel Vargas, Full-Stack Developer from 🇻🇪 Venezuela - San Sebastian de los Reyes, 
-currently living in 🇨🇴 Colombia - Medellin
+I am Jhosbel Vargas, Full-Stack Developer from Venezuela - San Sebastian de los Reyes, 
+currently living in Colombia - Medellin
 
 ![me](https://github.com/jhosbel/jhosbel/assets/55473695/e29ee325-87b6-4450-97e0-3b033128f916)
 
@@ -18,6 +18,8 @@ You can find me 🗺️:
 
 - [Portfolio](https://jhosbeldev-portfolio.netlify.app/en/)
 - [LinkedIn](https://www.linkedin.com/in/jhosbel-vargas/?locale=en_US)
+
+![JhosbelDev GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosbel&show_icons=true&theme=transparent)
 
 <!--
 **jhosbel/jhosbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
