@@ -9,6 +9,11 @@ code: [JavaScript, TypeScript, HTML, CSS],
 tools: [React, Node, Styled-Components, MongoDB, NestJs]
 }
 ```
+You can find me 🗺️:
+
+- [Portfolio](https://jhosbeldev-portfolio.netlify.app/en/)
+- [LinkedIn](https://www.linkedin.com/in/jhosbel-vargas/?locale=en_US)
+
 <!--
 **jhosbel/jhosbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
