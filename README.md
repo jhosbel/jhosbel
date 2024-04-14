@@ -102,7 +102,7 @@ It is a website where you can read and write general information blogs about any
 </td>
 </table>
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jhosbel&show_icons=true&theme=react&show_icons=true&include_all_commits=true" />
