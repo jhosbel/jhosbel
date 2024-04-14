@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    ### Hi, I'm Jhosbel, nice to see you 👋😎🤟💻
+    Hi, I'm Jhosbel, nice to see you 👋😎🤟💻
   </h1>
 </div>
 
@@ -22,6 +22,17 @@ You can find me 🗺️:
 
 - [Portfolio](https://jhosbeldev-portfolio.netlify.app/en/)
 - [LinkedIn](https://www.linkedin.com/in/jhosbel-vargas/?locale=en_US)
+
+## Some Projects
+<table>
+  <tr>
+  <td width="50%">
+    <h3 align="center">C-Fitness Web App</h3>
+    <div>
+      <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src=""></a>
+    </div>
+  </td>
+</table>
 
 
 ### ⚙️ GitHub Analytics
