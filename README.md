@@ -30,6 +30,11 @@ You can find me 🗺️:
     <h3 align="center">C-Fitness Web App</h3>
     <div>
       <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src="https://github.com/jhosbel/jhosbel/assets/55473695/bb577aa5-ec8b-43e9-b822-28766e44f413" width="400" alt="C-Fitness"></a>
+      <p>
+        <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20-%20C--Fitness%20-%20fedcba" >
+        </a>
+      </p>
     </div>
   </td>
 </table>
