@@ -47,17 +47,17 @@ Create personalized routines to be able to train to your liking, keep your diet 
 <td width="50%">
 <h3 align="center">C-Fitness Web App</h3>
 <div align="center">
-<a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src="https://github.com/jhosbel/jhosbel/assets/55473695/bb577aa5-ec8b-43e9-b822-28766e44f413" width="400" alt="C-Fitness"></a>
+<a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src="https://github.com/jhosbel/jhosbel/assets/55473695/072383d4-0c7f-4a86-9e76-865edb8c5101" width="400" alt="Blog"></a>
 <p>
 <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
-<img src="https://img.shields.io/badge/GitHub%20-%20C--Fitness%20-%20fedcba" >
+<img src="https://img.shields.io/badge/GitHub%20-%20Blog%20-%20fedcba" >
 </a>
 <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
-<img src="https://img.shields.io/badge/Page%20-%20C--Fitness%20-%20fedcba" >
+<img src="https://img.shields.io/badge/Page%20-%20Blog%20-%20fedcba" >
 </a>
 </p>
 <p>
-Create personalized routines to be able to train to your liking, keep your diet in order by seeing your macronutrients to know what type of diet you have to follow to get the results you are looking for, with C-Fitness you can do that and more.
+It is a website where you can read and write general information blogs about any community or any topic that interests you.
 </p>
 </div>
 </td>
