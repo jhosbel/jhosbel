@@ -19,7 +19,7 @@ You can find me 🗺️:
 - [Portfolio](https://jhosbeldev-portfolio.netlify.app/en/)
 - [LinkedIn](https://www.linkedin.com/in/jhosbel-vargas/?locale=en_US)
 
-<p aling="center">
+<p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jhosbel&show_icons=true&theme=react&show_icons=true&include_all_commits=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhosbel&theme=react&layout=compact" />
 </p>
