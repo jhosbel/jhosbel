@@ -6,13 +6,13 @@
 
 ![me](https://github.com/jhosbel/jhosbel/assets/55473695/e29ee325-87b6-4450-97e0-3b033128f916)
 
-## About me
+## 👨‍💼 About me
 
 My name is Jhosbel Vargas. I started programming thanks to the recommendation of a friend many years ago and since then I have been involved in the world of development learning more about new technologies.
 
 My greatest achievement so far has been being the in charge of developing a project completely from scratch for the company I have worked for after demonstrating my skills acquired over time. I am proud of the work I did and although it could not be completed with the application due to external agents, I can say that it was a very enriching experience.
 
-## Languages and Tools:
+## 🧰 Languages and Tools:
 
 <p align="center"> 
 
@@ -62,7 +62,7 @@ My greatest achievement so far has been being the in charge of developing a proj
 
 </p>
 
-## Some Projects
+## 📂 Some Projects
 <table>
 <tr>
 <td width="50%">
