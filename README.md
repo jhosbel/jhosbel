@@ -19,7 +19,12 @@ You can find me 🗺️:
 - [Portfolio](https://jhosbeldev-portfolio.netlify.app/en/)
 - [LinkedIn](https://www.linkedin.com/in/jhosbel-vargas/?locale=en_US)
 
-![JhosbelDev GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosbel&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhosbel&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhosbel&langs_count=8)
+<p aling="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jhosbel&show_icons=true&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhosbel&theme=react&layout=compact" />
+</p>
+
+![JhosbelDev GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosbel&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhosbel&layout=compact)
 
 <!--
 **jhosbel/jhosbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
