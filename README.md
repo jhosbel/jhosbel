@@ -4,24 +4,13 @@
   </h1>
 </div>
 
-Welcome to my page!
-
-I am Jhosbel Vargas, Full-Stack Developer from Venezuela - San Sebastian de los Reyes, 
-currently living in Colombia - Medellin
-
 ![me](https://github.com/jhosbel/jhosbel/assets/55473695/e29ee325-87b6-4450-97e0-3b033128f916)
 
-```js
-const jhosbelDev = {
-pronouns: "he" | "him",
-code: [JavaScript, TypeScript, HTML, CSS],
-tools: [React, Node, Styled-Components, MongoDB, NestJs]
-}
-```
-You can find me 🗺️:
+## About me
 
-- [Portfolio](https://jhosbeldev-portfolio.netlify.app/en/)
-- [LinkedIn](https://www.linkedin.com/in/jhosbel-vargas/?locale=en_US)
+My name is Jhosbel Vargas. I started programming thanks to the recommendation of a friend many years ago and since then I have been involved in the world of development learning more about new technologies.
+
+My greatest achievement so far has been being the in charge of developing a project completely from scratch for the company I have worked for after demonstrating my skills acquired over time. I am proud of the work I did and although it could not be completed with the application due to external agents, I can say that it was a very enriching experience.
 
 ## Some Projects
 <table>
