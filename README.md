@@ -34,7 +34,7 @@ You can find me 🗺️:
 <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
 <img src="https://img.shields.io/badge/GitHub%20-%20C--Fitness%20-%20fedcba" >
 </a>
-<a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
+<a href="https://fitness-web-app-lemon.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Page%20-%20C--Fitness%20-%20fedcba" >
 </a>
 </p>
@@ -49,10 +49,10 @@ Create personalized routines to be able to train to your liking, keep your diet 
 <div align="center">
 <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src="https://github.com/jhosbel/jhosbel/assets/55473695/072383d4-0c7f-4a86-9e76-865edb8c5101" width="400" alt="Blog"></a>
 <p>
-<a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
+<a href="https://github.com/jhosbel/blog-app" target="_blank">
 <img src="https://img.shields.io/badge/GitHub%20-%20Blog%20-%20fedcba" >
 </a>
-<a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
+<a href="https://blog-app-kappa-two.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Page%20-%20Blog%20-%20fedcba" >
 </a>
 </p>
