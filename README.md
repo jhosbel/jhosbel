@@ -46,7 +46,11 @@ My greatest achievement so far has been being the <strong>in charge of developin
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a> 
+</a>
+
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="express" width="40" height="40"/>
+</a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
