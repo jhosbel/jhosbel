@@ -36,6 +36,14 @@ My greatest achievement so far has been being the <strong>in charge of developin
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a> 
 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="https://github.com/detain/svg-logos/blob/master/svg/r/react-native-1.svg" alt="react" width="40" height="40"/>
+</a> 
+
+<a href="https://expo.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="react" width="60" height="40"/>
+</a> 
+
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 </a> 
