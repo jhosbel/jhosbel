@@ -129,10 +129,7 @@ It is a website where you can read and write general information blogs about any
 <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src="https://github.com/user-attachments/assets/ae3be830-9c18-45de-a0fe-b5811f0249aa" width="400" alt="Kaos-app"></a>
 <p>
 <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
-<img src="https://img.shields.io/badge/GitHub%20-%20C--Fitness%20-%20fedcba" >
-</a>
-<a href="https://fitness-web-app-lemon.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Page%20-%20C--Fitness%20-%20fedcba" >
+<img src="https://img.shields.io/badge/GitHub%20-%20KAOS--app%20-%20fedcba" >
 </a>
 </p>
 <p>
