@@ -131,6 +131,9 @@ It is a website where you can read and write general information blogs about any
 <a href="https://github.com/jhosbel/kaos-expo-app" target="_blank">
 <img src="https://img.shields.io/badge/GitHub%20-%20KAOS--app%20-%20fedcba" >
 </a>
+<a href="https://github.com/jhosbel/nest-kaos-back" target="_blank">
+<img src="https://img.shields.io/badge/GitHub%20-%20KAOS--Backend--app%20-%20fedcba" >
+</a>
 </p>
 <p>
 KAOS is a mobile application developed in React Native using Expo, designed to create and manage gaming rooms for mobile and PC games. The app allows users to participate in competitive matches, top up their balance (in credits), and convert those credits into real money.
