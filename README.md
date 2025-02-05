@@ -124,9 +124,9 @@ It is a website where you can read and write general information blogs about any
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">C-Fitness Web App</h3>
+<h3 align="center">KAOS App</h3>
 <div align="center">
-<a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src="https://github.com/jhosbel/jhosbel/assets/55473695/bb577aa5-ec8b-43e9-b822-28766e44f413" width="400" alt="C-Fitness"></a>
+<a href="https://github.com/jhosbel/FitnessWebApp" target="_blank"><img src="https://github.com/user-attachments/assets/ae3be830-9c18-45de-a0fe-b5811f0249aa" width="400" alt="Kaos-app"></a>
 <p>
 <a href="https://github.com/jhosbel/FitnessWebApp" target="_blank">
 <img src="https://img.shields.io/badge/GitHub%20-%20C--Fitness%20-%20fedcba" >
@@ -136,7 +136,7 @@ It is a website where you can read and write general information blogs about any
 </a>
 </p>
 <p>
-Create personalized routines to be able to train to your liking, keep your diet in order by seeing your macronutrients to know what type of diet you have to follow to get the results you are looking for, with C-Fitness you can do that and more.
+KAOS is a mobile application developed in React Native using Expo, designed to create and manage gaming rooms for mobile and PC games. The app allows users to participate in competitive matches, top up their balance (in credits), and convert those credits into real money.
 </p>
 </div>
 </td>
